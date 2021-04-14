@@ -1,0 +1,7 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "git.ignoreLimitWarning": true,
+  "idf.adapterTargetName": "esp32s2",
+  "idf.port": "/dev/ttyACM0",
+  "idf.flashType": "UART"
+}
