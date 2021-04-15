@@ -1,7 +1,7 @@
 
 # Franzininho WiFi - Get Started 
 
-Bem-Vindo este repósitorio, aqui estamos nos dedicando ao desenvolvemento de exemplos para a placa Franzininho WiFI com o objetivo de colaborar no processo de aprendizagem da programação e da eletrônica em diversas aplicações.
+Bem-Vindo a este repósitorio, aqui estamos nos dedicando ao desenvolvemento de exemplos para a placa Franzininho WiFI com o objetivo de colaborar no processo de aprendizagem da programação e da eletrônica em diversas aplicações.
 
 
 ## Exemplos
