@@ -10,7 +10,7 @@
 - Computador com ESP-IDF instalado e configurado(link)
 
 
-## Desenvolvimento do conteúdo (trocar subtítulo para um mais adequado)
+## Desenvolvimento 
 
 
 ### Esquemático (se necessário)
