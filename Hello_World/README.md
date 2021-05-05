@@ -8,8 +8,11 @@ Nesse projeto foi utilizado a Franzininho WiFi, uma placa de desenvolvimento bas
 
 
 ## Recursos Necessários
-
+Antes de parti para o código é necessário que o leitor possua os seguintes elementos: 
 - Placa Franzininho WiFi
+- Proboard
+- LED
+- Resistor 220R ou 150R
 - Computador com ESP-IDF instalado e configurado(link)
 
 
