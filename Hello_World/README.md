@@ -2,7 +2,7 @@
 
 
 ## Introdução
-O artigo proposto dará início a uma série de projetos utilizando o framework oficial da Espressif, o IDF . O objetivo deste artigo é apresentar um exemplo de projeto que sirva como base  para aqueles que estão dando seus primeiros passos com a família de microcontroladores o ESP 32. No  primeiro projeto dessa série será mostrado as etapas de criação de arquivos dentro do editor de texto (Visual Studio Code) junto a extensão oferecida pela Espressif para realizar a compilação e o upload do código. 
+O artigo proposto dará início a uma série de projetos utilizando o framework oficial da Espressif, o IDF . O objetivo deste artigo é apresentar um exemplo de projeto que sirva como base  para aqueles que estão dando seus primeiros passos com a família de microcontroladores  ESP 32. No  primeiro projeto dessa série será mostrado as etapas de criação de arquivos dentro do editor de texto (Visual Studio Code) junto a extensão oferecida pela Espressif para realizar a compilação e o upload do código. 
  
 Nesse projeto foi utilizado a Franzininho WiFi, uma placa de desenvolvimento baseada no módulo ESP 32-S2, que trabalha numa iniciativa open hardware para ensinar e enriquecer habilidades em programação, eletrônica e soldagem de componentes. Como é de praxe na programação sempre que iniciamos uma linguagem ou quando aprendemos sobre um novo processador sempre temos que dar “Olá Mundo”, pois caso contrário teremos um azar eternamente. Então estão preparados para da Olá Mundo?
 
